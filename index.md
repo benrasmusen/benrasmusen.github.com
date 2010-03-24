@@ -1,2 +1,7 @@
-Test Page
-==========
+---
+layout: default
+title: Home
+---
+
+Home
+=====
